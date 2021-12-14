@@ -1,6 +1,4 @@
-﻿using System.Data.SqlClient;
-
-namespace Datos
+﻿namespace Datos
 {
     public class Datos_Usuarios
     {

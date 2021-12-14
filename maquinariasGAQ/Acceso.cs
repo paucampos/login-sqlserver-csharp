@@ -25,23 +25,33 @@ namespace maquinariasGAQ
             {
                 if (rut != "" && clave != "")
                 {
-                     bool response = val.validaUsuario(rut, clave);
+                     bool response = val.ValidaUsuario(rut, clave);
                      if (response)
                      {
                         val.Reinicio();
                         Sistema mv = new Sistema();
                         mv.ShowDialog();
-                     } 
+                     }
                 } 
                 else
                 {
+                    LimpiarForm();
                     throw new Exception("Debe ingresar Usuario y Clave");
                 }
             }
             catch (Exception err)
             {
+                LimpiarForm();
                 MessageBox.Show(err.Message);
             }
+        }
+
+        private void LimpiarForm()
+        {
+            // Limpiar formulario
+            txtClave.Clear();
+            txtUsuario.Clear();
+            txtUsuario.Focus();
         }
     }
 }
