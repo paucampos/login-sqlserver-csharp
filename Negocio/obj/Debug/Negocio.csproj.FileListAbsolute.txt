@@ -1,0 +1,26 @@
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\bin\Debug\Negocio.dll
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\bin\Debug\Datos.dll
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\bin\Debug\Datos.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\obj\Debug\Negocio.dll
+C:\Users\pauca\source\repos\SolEvaSumativa8\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\obj\Debug\Negocio.dll
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\bin\Debug\Negocio.dll
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\bin\Debug\Datos.dll
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\bin\Debug\Datos.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\bin\Debug\Negocio.dll
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\bin\Debug\Datos.dll
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\bin\Debug\Datos.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\obj\Debug\Negocio.dll
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\obj\Debug\Negocio.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\Negocio\obj\Debug\Negocio.csproj.CopyComplete

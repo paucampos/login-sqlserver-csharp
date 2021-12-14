@@ -1,0 +1,48 @@
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Acceso.resources
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Properties.Resources.resources
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe.config
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.dll
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.exe
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.dll
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.pdb
+C:\Users\pauca\source\repos\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Sistema.resources
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe.config
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.dll
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.dll
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.pdb
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Acceso.resources
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Sistema.resources
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Properties.Resources.resources
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.exe
+C:\Users\lquin\Downloads\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe.config
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.exe
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\maquinariasGAQ.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.dll
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.dll
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Datos.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\bin\Debug\Negocio.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Acceso.resources
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Sistema.resources
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.Properties.Resources.resources
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.exe
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\maquinariasGAQ.pdb
+C:\Users\pauca\OneDrive\Escritorio\AIEP\Taller de Programacion\S8\SolEvaSumativa8\maquinariasGAQ\obj\Debug\Presentacion.csproj.CopyComplete
